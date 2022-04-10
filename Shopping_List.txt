@@ -6,3 +6,5 @@ Bananas.
 Cherries
 Ceral
 Carrots
+Honey
+Chocolate
